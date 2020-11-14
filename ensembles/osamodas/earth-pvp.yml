@@ -1,0 +1,30 @@
+Characteristics:
+  Vitality: 365
+  Strength: 300
+  Intelligence: 30
+Equipment:
+  Hat: Queen of Thieves’ Headpiece
+  Cloak: Cloak of a Thousand Excuses
+  Amulet: Ellie’s Deluxe Mental Amulet
+  Rings:
+  - Bearbaric Wedding Ring
+  - Bearbaric Band
+  Belt: Queen of Thieves’ Belt
+  Boots: Shabby Shoes
+  Weapon: Catseye Bow
+  Shield: Fallanster’s Rectitude
+  Pet: Almond and Crimson Dragoturkey
+  Dofus:
+  - Ochre Dofus
+  - Ebony Dofus
+  - Ivory Dofus
+  - Abyssal Dofus
+  - Emerald Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Constriction", "Fossil", "Woolly Sledgehammer", "Crop", "Gambol", "Weapon Skill", "Flaming Crow", "Dragonic", "Puncture", "Call to Order"]
+  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Leek Pie", "First", "High-Energy Shot", "Second"]
+-
+  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "First", "High-Energy Shot", "Second"]
+  - [~, ~, ~, ~, ~, "Cawwot", ~, ~, ~, ~]
