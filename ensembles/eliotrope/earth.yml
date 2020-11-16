@@ -1,0 +1,29 @@
+Characteristics:
+  Vitality: 175
+  Strength: 300
+  Agility: 160
+Equipment:
+  Hat: Turtelonia Horn
+  Cloak: Cape of the Bleeding Heart
+  Amulet: Amulet of the Bleeding Heart
+  Rings:
+  - Corruption’s Ring
+  - Corruption’s Ring
+  Belt: Corruption’s Brambelt
+  Boots: Boots of the Bleeding Heart
+  Weapon: Turtelonia Wand
+  Shield: Four-Leaf
+  Pet: Snailmate
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Ebony Dofus
+  - Turquoise Dofus
+  - Abyssal Dofus
+  - Crimson Dofus
+Bar:
+-
+  - ["Persiflage", "Therapy", "Convulsion", "Lightning Fist", "Leek Pie", "Cabal", "Coalition", "Exodus", "Portal", "Interruption"]
+  - ["Conjuration", "Conjuration", "Conjuration", "Release", "Weapon Skill", "Focus", "Focus", "Diffusion", "Stretching", "Distortion"]
+-
+  - ["Soul Capture"]
