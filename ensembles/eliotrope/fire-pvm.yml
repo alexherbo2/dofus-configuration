@@ -1,0 +1,28 @@
+Characteristics:
+  Vitality: 15
+  Intelligence: 395
+Equipment:
+  Hat: Scapu Helm
+  Cloak: Inky Veil
+  Amulet: Rhineetle Amulet
+  Rings:
+  - Ringaeus
+  - Ringaling
+  Belt: Crocobelt
+  Boots: Unnamable Boots
+  Weapon: Corrupted Bow
+  Shield: Stalak Shield
+  Pet: Teddybearbarian
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Ebony Dofus
+  - Ivory Dofus
+  - Abyssal Dofus
+  - Major Intellectual
+Bar:
+-
+  - ["Offence", "Lazybeam", "Parasite", "Lightning Fist", "Leek Pie", "Curative Palm", "Coalition", "Exodus", "Portal", "Interruption"]
+  - ["Conjuration", "Conjuration", "Conjuration", "Release", "Weapon Skill", "Distribution", "Focus", ~, "Stretching", "Distortion"]
+-
+  - ["Soul Capture", ~, ~, "Convulsion", ~, "Therapy", ~, ~, ~, ~]
