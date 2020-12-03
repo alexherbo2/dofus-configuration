@@ -1,0 +1,30 @@
+Characteristics:
+  Vitality: 15
+  Strength: 395
+Equipment:
+  Hat: Count Harebourg’s Hat
+  Cloak: Jahash Jurgen’s Cloak
+  Amulet: Amulet of the Bleeding Heart
+  Rings:
+  - Corruption’s Ring
+  - Broucey Ring
+  Belt: Broucey Belt
+  Boots: Broucey Boots
+  Weapon: Catseye Bow
+  Shield: Four-Leaf
+  Pet: Snailmate
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Ebony Dofus
+  - Turquoise Dofus
+  - Cloudy Dofus
+  - Crimson Dofus
+Bar:
+-
+  - ["Arrow of Judgement", "Barricade Shot", "Poisoned Arrow", "Erosive Arrow", "Immobilising Arrow", "Release", "Bat’s Eye", "Lashing Arrow", "Dispersing Arrow", "Weapon Skill"]
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting", "Magic Arrow", "Plaguing Arrow", ~, ~, ~, ~]
+-
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting"]
+-
+  - ["Soul Capture"]

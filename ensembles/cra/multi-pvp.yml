@@ -1,0 +1,31 @@
+Characteristics:
+  Vitality: 27
+  Strength: 251
+  Intelligence: 31
+  Chance: 251
+  Agility: 31
+Equipment:
+  Hat: Nomarow’s Helmet
+  Cloak: Jahash Jurgen’s Cloak
+  Amulet: Treadfast Amulet
+  Rings:
+  - Nomarow’s Ring
+  - Hairsh Bracelet
+  Belt: Treadfast Belt
+  Boots: Nomarow’s Getas
+  Weapon: Rhineetle Bow
+  Shield: Four-Leaf
+  Pet: Snailmate
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Ebony Dofus
+  - Turquoise Dofus
+  - Cloudy Dofus
+  - Crimson Dofus
+Bar:
+-
+  - ["Tormenting Arrow", "Fulminating Arrow", "Burning Arrow", "Retreat Arrow", "Immobilising Arrow", "Concentration Arrow", "Punitive Arrow", "Atonement Arrow", "Crushing Arrow", "Lashing Arrow"]
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Barricade Shot", "Poisoned Arrow", "Plaguing Arrow", "Absorptive Arrow", "Slow Down Arrow", "Frozen Arrow", "Dispersing Arrow"]
+-
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting", "Cawwot", "Release", ~, ~, "Weapon Skill", ~]
