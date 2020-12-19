@@ -2,28 +2,27 @@ Characteristics:
   Vitality: 395
   Chance: 300
 Equipment:
-  Hat: Funerbroadsword Mask
+  Hat: Ilyzaelle Helmet
   Cloak: Absoluti Cape
-  Amulet: Spookkoth Amulet
+  Amulet: Ilyzaelle Amulet
   Rings:
   - Rhineetle Ring
   - Bearbaric Wedding Ring
   Belt: Queen of Thieves’ Belt
   Boots: Queen of Thieves’ Boots
   Weapon: Daguanos
-  Shield: Fallanster’s Rectitude
+  Shield: Ilyzaelle Shield
   Pet: Kanigloopy
   Dofus:
   - Vulbis Dofus
-  - Ochre Dofus
   - Ebony Dofus
   - Ivory Dofus
+  - Abyssal Dofus
   - Ice Dofus
-  - Major Luckster
+  - Emerald Dofus
 Bar:
 -
-  - ["Geyser", "Scalding Poison", "Batra", "Crop", "Leek Pie", "Weapon Skill", "Flaming Crow", "Gambol", "Puncture", "Call to Order"]
-  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "First", "High-Energy Shot", "Second"]
+  - ["First", "Second", "Third", "Fourth", "Sixth", "Crop", "Puncture", "Geyser", "Aquatic Wave", "Batra"]
+  - ["High-Energy Shot", "Animal Tandem", ~, ~, "Cawwot", "Release", "Call to Order", ~, ~, ~]
 -
-  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "First", "High-Energy Shot", "Second"]
-  - [~, ~, ~, ~, ~, "Cawwot", ~, ~, ~, ~]
+  - ["Summons Skill", "First", "Flaming Crow", "Second", "Flaming Crow", "Puncture", "Call to Order", "Third", "Animal Tandem"]
