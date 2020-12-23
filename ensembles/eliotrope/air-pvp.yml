@@ -1,0 +1,28 @@
+Characteristics:
+  Vitality: 395
+  Agility: 300
+Equipment:
+  Hat: Allister’s Crown
+  Cloak: Indescribable Cape
+  Amulet: Jammy Jack Collar
+  Rings:
+  - Jammy Jack Glove
+  - Bearbaric Wedding Ring
+  Belt: Menobelt
+  Boots: Tritun Palms
+  Weapon: Mantax
+  Shield: Stalak Shield
+  Pet: Brockheart
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Abyssal Dofus
+  - Crimson Dofus
+  - Ice Dofus
+  - Major Stunter
+Bar:
+-
+  - ["Ridicule", "Sermon", "Contempt", "Lightning Fist", "Leek Pie", "Cabal", "Coalition", "Exodus", "Portal", "Interruption"]
+  - ["Conjuration", "Conjuration", "Conjuration", "Release", "Weapon Skill", "Focus", "Focus", "Diffusion", "Stretching", "Distortion"]
+-
+  - ["Cawwot", "Summoning of Chaferfu", "Summoning of Arachnee", "Convulsion", ~, "Therapy"]
