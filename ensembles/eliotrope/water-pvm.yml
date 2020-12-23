@@ -1,0 +1,30 @@
+Characteristics:
+  Vitality: 15
+  Chance: 395
+Equipment:
+  Hat: Kideebonnet
+  Cloak: Queen of Fate Cape
+  Amulet: Treadfast Amulet
+  Rings:
+  - Rhineetle Ring
+  - Bearbaric Wedding Ring
+  Belt: Treadfast Belt
+  Boots: Queen of Fate Boots
+  Weapon: Daguanos
+  Shield: Four-Leaf
+  Pet: Snailmate
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Turquoise Dofus
+  - Abyssal Dofus
+  - Crimson Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Affliction", "Insolence", "Composure", "Cawwot", "Leek Pie", "Cabal", "Coalition", "Exodus", "Portal", "Interruption"]
+  - ["Conjuration", "Conjuration", "Conjuration", "Release", "Weapon Skill", "Focus", "Focus", "Diffusion", "Stretching", "Distortion"]
+-
+  - ["Cawwot", "Summoning of Chaferfu", "Summoning of Arachnee", "Convulsion", "Bullying", "Therapy"]
+-
+  - ["Soul Capture"]
