@@ -22,8 +22,7 @@ Equipment:
   - Major Stunter
 Bar:
 -
-  - ["Canine", "Duster", "Gambol", "Crop", "Leek Pie", "Weapon Skill", "Woolly Sledgehammer", "Dragonic", "Puncture", "Call to Order"]
-  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "Favouritism", "High-Energy Shot", "Second"]
+  - ["Second", "Third", "Fourth", "Sixth", "Animal Tandem", "Crop", "Puncture", "Canine", "Duster", "Gambol"]
+  - ["High-Energy Shot", "Favouritism", "Summoning of Chaferfu", "Summoning of Arachnee", "Cawwot", "Release", "Call to Order", "Weapon Skill", "Flaming Crow", "Dragon’s Breath"]
 -
-  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "Favouritism", "High-Energy Shot", "Second"]
-  - [~, ~, ~, ~, ~, "Cawwot", ~, ~, ~, ~]
+  - ["Summons Skill", "Second", "Gambol", "Third", "Puncture", "Call to Order", "Fourth", "Animal Tandem"]

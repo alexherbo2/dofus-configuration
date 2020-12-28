@@ -16,16 +16,15 @@ Equipment:
   Dofus:
   - Vulbis Dofus
   - Ochre Dofus
-  - Ebony Dofus
+  - Abyssal Dofus
+  - Ice Dofus
   - Major Stunter
-  - Major Gymnast
   - Major Air Devastator
 Bar:
 -
-  - ["Canine", "Duster", "Gambol", "Crop", "Leek Pie", "Weapon Skill", "Woolly Sledgehammer", "Dragonic", "Puncture", "Call to Order"]
-  - ["Relay", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "Favouritism", "High-Energy Shot", "Natural Defence"]
+  - ["Second", "Third", "Fourth", "Sixth", "Animal Tandem", "Crop", "Puncture", "Canine", "Duster", "Gambol"]
+  - ["High-Energy Shot", "Favouritism", "Summoning of Chaferfu", "Summoning of Arachnee", "Cawwot", "Release", "Call to Order", "Weapon Skill", "Flaming Crow", "Dragon’s Breath"]
 -
-  - ["Relay", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "Favouritism", "High-Energy Shot", "Natural Defence"]
-  - [~, ~, ~, ~, ~, "Cawwot", ~, ~, ~, ~]
+  - ["Summons Skill", "Second", "Gambol", "Third", "Puncture", "Call to Order", "Fourth", "Animal Tandem"]
 -
   - ["Soul Capture"]
