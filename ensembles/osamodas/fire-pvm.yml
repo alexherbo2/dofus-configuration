@@ -2,30 +2,29 @@ Characteristics:
   Vitality: 15
   Intelligence: 395
 Equipment:
-  Hat: Scapu Helm
-  Cloak: Inky Veil
+  Hat: War’s Helm
+  Cloak: Merdiodon Cloak
   Amulet: Rhineetle Amulet
   Rings:
   - Ringaeus
   - Ringaling
-  Belt: Crocobelt
-  Boots: Unnamable Boots
+  Belt: Age-Old Belt
+  Boots: War’s Treads
   Weapon: Corrupted Bow
   Shield: Four-Leaf
   Pet: Teddybearbarian
   Dofus:
+  - Vulbis Dofus
   - Ochre Dofus
-  - Ebony Dofus
+  - Abyssal Dofus
   - Ice Dofus
   - Major Intellectual
-  - Major Brainbox
   - Major Fire Devastator
 Bar:
 -
-  - ["Dragonic", "Dragon’s Breath", "Flaming Crow", "Crop", "Canine", "Weapon Skill", "Leek Pie", "Gambol", "Puncture", "Call to Order"]
-  - ["Relay", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Sacrificial Fire", "Favouritism", "High-Energy Shot", "Natural Defence"]
+  - ["First", "Second", "Third", "Fourth", "Sixth", "Crop", "Puncture", "Flaming Crow", "Dragonic", "Dragon’s Breath"]
+  - ["High-Energy Shot", "Animal Tandem", "Summoning of Chaferfu", "Summoning of Arachnee", "Cawwot", "Release", "Call to Order", "Leek Pie", "Weapon Skill", ~]
 -
-  - ["Relay", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Sacrificial Fire", "Favouritism", "High-Energy Shot", "Natural Defence"]
-  - [~, ~, ~, ~, ~, "Cawwot", ~, ~, ~, ~]
+  - ["Summons Skill", "First", "Flaming Crow", "Second", "Flaming Crow", "Puncture", "Call to Order", "Third", "Animal Tandem"]
 -
   - ["Soul Capture"]
