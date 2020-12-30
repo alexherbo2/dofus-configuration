@@ -1,30 +1,29 @@
 Characteristics:
-  Vitality: 365
+  Vitality: 175
   Strength: 300
-  Intelligence: 30
+  Agility: 160
 Equipment:
-  Hat: Queen of Thieves’ Headpiece
-  Cloak: Cloak of a Thousand Excuses
-  Amulet: Ellie’s Deluxe Mental Amulet
+  Hat: Turtelonia Horn
+  Cloak: Cape of the Bleeding Heart
+  Amulet: Amulet of the Bleeding Heart
   Rings:
-  - Bearbaric Wedding Ring
-  - Bearbaric Band
-  Belt: Queen of Thieves’ Belt
-  Boots: Shabby Shoes
-  Weapon: Catseye Bow
-  Shield: Fallanster’s Rectitude
-  Pet: Almond and Crimson Dragoturkey
+  - Corruption’s Ring
+  - Corruption’s Ring
+  Belt: Corruption’s Brambelt
+  Boots: Boots of the Bleeding Heart
+  Weapon: Turtelonia Wand
+  Shield: Four-Leaf
+  Pet: Snailmate
   Dofus:
+  - Vulbis Dofus
   - Ochre Dofus
-  - Ebony Dofus
-  - Ivory Dofus
+  - Turquoise Dofus
   - Abyssal Dofus
-  - Emerald Dofus
+  - Crimson Dofus
   - Ice Dofus
 Bar:
 -
-  - ["Constriction", "Fossil", "Woolly Sledgehammer", "Crop", "Gambol", "Weapon Skill", "Flaming Crow", "Dragonic", "Puncture", "Call to Order"]
-  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Leek Pie", "First", "High-Energy Shot", "Second"]
+  - ["First", "Second", "Third", "Fourth", "Sixth", "Crop", "Puncture", "Woolly Sledgehammer", "Fossil", "Constriction"]
+  - ["High-Energy Shot", "Animal Tandem", "Summoning of Chaferfu", "Summoning of Arachnee", "Cawwot", "Release", "Call to Order", "Weapon Skill", "Flaming Crow", "Dragon’s Breath"]
 -
-  - ["Third", "Fourth", "Sixth", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Spiritual Leash", "First", "High-Energy Shot", "Second"]
-  - [~, ~, ~, ~, ~, "Cawwot", ~, ~, ~, ~]
+  - ["Summons Skill", "First", "Woolly Sledgehammer", "Second", "Puncture", "Woolly Sledgehammer", "Call to Order", "Third", "Animal Tandem"]
