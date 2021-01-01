@@ -1,0 +1,30 @@
+Characteristics:
+  Vitality: 15
+  Chance: 395
+Equipment:
+  Hat: Kideebonnet
+  Cloak: Queen of Fate Cape
+  Amulet: Treadfast Amulet
+  Rings:
+  - Rhineetle Ring
+  - Bearbaric Wedding Ring
+  Belt: Treadfast Belt
+  Boots: Queen of Fate Boots
+  Weapon: Daguanos
+  Shield: Four-Leaf
+  Pet: Snailmate
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Turquoise Dofus
+  - Crimson Dofus
+  - Ice Dofus
+  - Major Tease
+Bar:
+-
+  - ["Redemption Arrow", "Striking Arrow", "Immobilising Arrow", "Retreat Arrow", ~, "Release", "Bat’s Eye", "Lashing Arrow", "Dispersing Arrow", "Weapon Skill"]
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting", ~, ~, ~, "Plaguing Arrow", "Concentration Arrow", "Poisoned Arrow"]
+-
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting"]
+-
+  - ["Soul Capture"]
