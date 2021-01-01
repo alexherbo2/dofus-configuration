@@ -1,0 +1,26 @@
+Characteristics:
+  Vitality: 395
+  Agility: 300
+Equipment:
+  Hat: Allister’s Crown
+  Cloak: Indescribable Cape
+  Amulet: Jammy Jack Collar
+  Rings:
+  - Jammy Jack Glove
+  - Bearbaric Wedding Ring
+  Belt: Menobelt
+  Boots: Tritun Palms
+  Weapon: Mantax
+  Shield: Stalak Shield
+  Pet: Brockheart
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Ivory Dofus
+  - Abyssal Dofus
+  - Crimson Dofus
+  - Major Stunter
+Bar:
+-
+  - ["Devouring Arrow", "Concentration Arrow", "Plaguing Arrow", "Retreat Arrow", "Abolition Arrow", "Release", "Weapon Skill", "Withdrawal Arrow", "Tactical Beacon", "Recall Beacon"]
+  - ["Sentinel", "Absolute Acuteness", "Crushing Arrow", "Reprisal", "Cawwot", "Summoning of Chaferfu", "Summoning of Arachnee", ~, "Immobilising Arrow", "Poisoned Arrow"]
