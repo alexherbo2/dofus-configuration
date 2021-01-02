@@ -14,9 +14,9 @@ Equipment:
   Shield: Stalak Shield
   Pet: Bulbisou
   Dofus:
+  - Shiny Pryssure
   - Vulbis Dofus
   - Ochre Dofus
-  - Ebony Dofus
   - Abyssal Dofus
   - Crimson Dofus
   - Ice Dofus
@@ -25,6 +25,6 @@ Bar:
   - ["Lethal Attack", "Lethal Trap", "Malevolent Trap", "Shakedown", "Repelling Trap", "Weapon Skill", "Miry Trap", "Plotter", "Tricky Blow", "Mistake"]
   - ["Waylaying", "Drift Trap", "Fragmentation Trap", "Mass Grave", "Invisibility", "Pitfall", "Misconstrual", "Chakra Concentration", "Calamity", "Sickrat Trap"]
 -
-  - ["Cawwot", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Leek Pie"]
+  - ["Cawwot", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Leek Pie", "Summons Skill"]
 -
   - ["Soul Capture"]
