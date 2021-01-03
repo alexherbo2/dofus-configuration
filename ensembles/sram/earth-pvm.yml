@@ -23,9 +23,9 @@ Equipment:
 Bar:
 -
   - ["Lethal Attack", "Shakedown", "Pitfall", "Tricky Blow", "Weapon Skill", "Mortuary Mark", "Chakra Concentration", "Misconstrual", "Waylaying", "Invisibility"]
-  - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", ~, ~, "Tricky Blow", "Plotter"]
+  - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", ~, "Mistake", "Tricky Blow", "Plotter"]
 -
   - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", "Chakra Concentration", "Misconstrual", "Waylaying", "Invisibility"]
-  - ["Summons Skill", "Summoning of Arachnee", "Summoning of Chaferfu", ~, "Cawwot", "Release", ~, ~, "Tricky Blow", "Plotter"]
+  - ["Summons Skill", "Summoning of Arachnee", "Summoning of Chaferfu", ~, "Cawwot", "Release", ~, "Mistake", "Tricky Blow", "Plotter"]
 -
   - ["Soul Capture"]
