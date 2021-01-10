@@ -2,28 +2,28 @@ Characteristics:
   Vitality: 15
   Intelligence: 395
 Equipment:
-  Hat: War’s Helm
-  Cloak: Merdiodon Cloak
-  Amulet: Rhineetle Amulet
+  Hat: Nomarow’s Helmet
+  Cloak: Jahash Jurgen’s Cloak
+  Amulet: Age-Old Amulet
   Rings:
-  - Ringaeus
-  - Ringaling
+  - Nomarow’s Ring
+  - War’s Gauntlet
   Belt: Age-Old Belt
-  Boots: War’s Treads
+  Boots: Nomarow’s Getas
   Weapon: Etymolowand
   Shield: Four-Leaf
-  Pet: Snailmate
+  Pet: Skrot
   Dofus:
   - Vulbis Dofus
   - Ochre Dofus
   - Turquoise Dofus
   - Abyssal Dofus
   - Crimson Dofus
-  - Major Intellectual
+  - Ice Dofus
 Bar:
 -
-  - ["Offence", "Lazybeam", "Parasite", "Lightning Fist", "Leek Pie", "Curative Palm", "Coalition", "Exodus", "Portal", "Interruption"]
-  - ["Conjuration", "Conjuration", "Conjuration", "Release", "Weapon Skill", "Distribution", "Focus", ~, "Stretching", "Distortion"]
+  - ["Affront", "Lazybeam", "Parasite", "Lightning Fist", "Leek Pie", "Cabal", "Coalition", "Exodus", "Portal", "Interruption"]
+  - ["Conjuration", "Conjuration", "Conjuration", "Release", "Weapon Skill", "Focus", "Focus", "Diffusion", "Stretching", "Distortion"]
 -
   - ["Cawwot", "Summoning of Chaferfu", "Summoning of Arachnee", "Convulsion", "Bullying", "Therapy", ~, ~, ~, ~]
 -
