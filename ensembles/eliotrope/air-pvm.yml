@@ -1,25 +1,26 @@
 Characteristics:
-  Vitality: 15
-  Agility: 395
+  Vitality: 175
+  Strength: 160
+  Agility: 300
 Equipment:
-  Hat: Allister’s Crown
-  Cloak: Indescribable Cape
-  Amulet: Jammy Jack Collar
+  Hat: Nomarow’s Helmet
+  Cloak: Turtelonia Carapace
+  Amulet: Treadfast Amulet
   Rings:
-  - Jammy Jack Glove
-  - Bearbaric Wedding Ring
-  Belt: Menobelt
-  Boots: Tritun Palms
-  Weapon: Mantax
-  Shield: Stalak Shield
-  Pet: Brockheart
+  - Nomarow’s Ring
+  - Hairsh Bracelet
+  Belt: Treadfast Belt
+  Boots: Nomarow’s Getas
+  Weapon: Turtelonia Wand
+  Shield: Four-Leaf
+  Pet: Skrot
   Dofus:
   - Vulbis Dofus
   - Ochre Dofus
+  - Turquoise Dofus
   - Abyssal Dofus
   - Crimson Dofus
   - Ice Dofus
-  - Major Stunter
 Bar:
 -
   - ["Ridicule", "Sermon", "Contempt", "Lightning Fist", "Leek Pie", "Cabal", "Coalition", "Exodus", "Portal", "Interruption"]
