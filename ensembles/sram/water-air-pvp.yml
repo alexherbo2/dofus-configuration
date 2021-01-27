@@ -1,0 +1,29 @@
+Characteristics:
+  Vitality: 395
+  Chance: 300
+  Agility: 300
+Equipment:
+  Hat: Ilyzaelle Helmet
+  Cloak: Jahash Jurgen’s Cloak
+  Amulet: Ilyzaelle Amulet
+  Rings:
+  - Rhineetle Ring
+  - Bearbaric Wedding Ring
+  Belt: Queen of Thieves’ Belt
+  Boots: Queen of Thieves’ Boots
+  Weapon: Koutoulou Bow
+  Shield: Ilyzaelle Shield
+  Pet: Skrot
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Ivory Dofus
+  - Abyssal Dofus
+  - Cloudy Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Con", "Toxines", "Epidemic", "Lethal Trap", "Toxic Injection", "Jinx", "Punch", "Plotter", "Tricky Blow", "Miry Trap"]
+  - ["Cruelty", "Drift Trap", "Fragmentation Trap", "Mass Grave", "Invisibility", "Mortuary Mark", "Misconstrual", "Plot", "Calamity", "Sickrat Trap"]
+-
+  - ["Summons Skill", "Summoning of Arachnee", "Summoning of Chaferfu", ~, "Cawwot", "Release", "Weapon Skill", ~, ~, ~]
