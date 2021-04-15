@@ -1,25 +1,25 @@
 Characteristics:
-  Vitality: 395
-  Chance: 300
+  Vitality: 15
+  Chance: 395
 Equipment:
-  Hat: Kideebonnet
-  Cloak: Queen of Fate Cape
-  Amulet: Treadfast Amulet
+  Hat: Ganymede’s Diadem
+  Cloak: Jahash Jurgen’s Cloak
+  Amulet: Sinistrofu Amulet
   Rings:
   - Rhineetle Ring
-  - Misery’s Greed
-  Belt: Treadfast Belt
-  Boots: Queen of Fate Boots
-  Weapon: Daguanos
-  Shield: Four-Leaf
-  Pet: Maulleycat
+  - Bearbaric Wedding Ring
+  Belt: Servitude’s Embrace
+  Boots: Sinistrofu Boots
+  Weapon: Jobimcarl Bow
+  Shield: Stalak Shield
+  Pet: Kanigloopy
   Dofus:
   - Disaprys
   - Vulbis Dofus
   - Ochre Dofus
-  - Turquoise Dofus
-  - Abyssal Dofus
   - Crimson Dofus
+  - Major Luckster
+  - Major Tease
 Bar:
 -
   - ["Affliction", "Insolence", "Composure", "Cawwot", "Leek Pie", "Cabal", "Coalition", "Exodus", "Portal", "Interruption"]
