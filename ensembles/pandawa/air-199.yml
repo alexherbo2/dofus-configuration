@@ -1,0 +1,29 @@
+Characteristics:
+  Vitality: 10
+  Agility: 395
+Equipment:
+  Hat: Nomarow’s Helmet
+  Cloak: Klime’s Cloak
+  Amulet: Quartzovski Crystal
+  Rings:
+  - Nomarow’s Ring
+  - Allister’s Ring
+  Belt: Klime’s Belt
+  Boots: Nomarow’s Getas
+  Weapon: Furritung
+  Shield: Four-Leaf
+  Pet: Snailmate
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Turquoise Dofus
+  - Abyssal Dofus
+  - Crimson Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Schnaps", "Numbness", "Nausea", "Karcham", "Boozer", "Pandiniuras", "Fermentation", "Spirit Bond", "Stabilisation", "Propulsion"]
+  - ["Inebriation", "Explosive Flask", "Weapon Skill", "Debauchery", "Stain", "Prohibition", "Pandjiu", "Terror", "Tipple", "Waterfall"]
+-
+  - ["Summons Skill", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Cawwot", "Leek Pie"]
+  - ["Soul Capture"]
