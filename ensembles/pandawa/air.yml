@@ -1,5 +1,5 @@
 Characteristics:
-  Vitality: 10
+  Vitality: 15
   Agility: 395
 Equipment:
   Hat: Nomarow’s Helmet
@@ -22,7 +22,7 @@ Equipment:
   - Ice Dofus
 Bar:
 -
-  - ["Schnaps", "Numbness", "Nausea", "Karcham", "Boozer", "Pandiniuras", "Fermentation", "Spirit Bond", "Stabilisation", "Propulsion"]
+  - ["Schnaps", "Numbness", "Nausea", "Karcham", "Boozer", "Pandiniuras", "Fermentation", "Bamboo", "Stabilisation", "Propulsion"]
   - ["Inebriation", "Explosive Flask", "Weapon Skill", "Debauchery", "Stain", "Prohibition", "Pandjiu", "Terror", "Tipple", "Waterfall"]
 -
   - ["Summons Skill", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Cawwot", "Leek Pie"]
