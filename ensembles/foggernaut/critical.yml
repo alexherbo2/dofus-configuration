@@ -1,0 +1,33 @@
+Characteristics:
+  Vitality: 95
+  Strength: 200
+  Chance: 200
+  Agility: 200
+Equipment:
+  Hat: Nomarow’s Helmet
+  Cloak: Turtelonia Carapace
+  Amulet: Treadfast Amulet
+  Rings:
+  - Nomarow’s Ring
+  - Spilling Ryng
+  Belt: Treadfast Belt
+  Boots: Nomarow’s Getas
+  Weapon: Turtelonia Wand
+  Shield: Four-Leaf
+  Pet: Skrot
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Turquoise Dofus
+  - Abyssal Dofus
+  - Crimson Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Ambush", "Nautilus", "Torpedo", "Grapnel", "Evolution", "Harpooner", "Lifesaver", "Bathyscaphe", "Scaphander", "Dreadnaut"]
+  - ["Spyglass", "Torrent", "Tide", "Assistance", "Backwash", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Weapon Skill", "Recursiveness"]
+-
+  - ["Summons Skill", "Release", "Cawwot", "Leek Pie", "Mooring"]
+  - ["Weapon Skill", "Summoning of Chaferfu", "Summoning of Arachnee"]
+-
+  - ["Soul Capture"]
