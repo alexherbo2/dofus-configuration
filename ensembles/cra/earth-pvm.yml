@@ -25,6 +25,6 @@ Bar:
   - ["Arrow of Judgement", "Barricade Shot", "Poisoned Arrow", "Erosive Arrow", "Immobilising Arrow", "Release", "Bat’s Eye", "Lashing Arrow", "Dispersing Arrow", "Weapon Skill"]
   - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting", "Magic Arrow", "Plaguing Arrow", ~, ~, ~, ~]
 -
-  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting"]
+  - ["Critical Shooting", "Powerful Shooting", "Bow Skill", "Distant Shooting", ~, ~, ~, ~, ~, "Weapon Skill"]
 -
   - ["Soul Capture"]
