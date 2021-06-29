@@ -1,29 +1,28 @@
 Characteristics:
-  Vitality: 895
-  Agility: 100
+  Vitality: 995
 Equipment:
-  Hat: Dreggon Helmet
-  Cloak: Inky Veil
+  Hat: Anerice Mask
+  Cloak: Anerice Cloak
   Amulet: Slobberpuss’ Collar
   Rings:
   - Bearbaric Wedding Ring
   - Pawl Ouatnos’ Ring
-  Belt: Lady Jhessica’s Belt
-  Boots: Baleenaboots
+  Belt: Kongoku Belt
+  Boots: Pathogastrics
   Weapon: Aermyne’s Rolling Pin
   Shield: Fallanster’s Rectitude
-  Pet: Frozen Tofu
+  Pet: Snowfoux
   Dofus:
-  - Vulbis Dofus
-  - Ochre Dofus
-  - Ebony Dofus
   - Ivory Dofus
   - Emerald Dofus
-  - Major Deserter
+  - Dokoko
+  - Major Obstructor
+  - Major Stickler
+  - Major Neutral Carapace
 Bar:
 -
-  - ["Boozer", "Karcham", "Terror", "Vulnerability", "Alcoholic Breath", "Liqueur", "Tipple", "Alcoshu", "Waterfall", "Brandy"]
-  - ["Pandiniuras", "Stabilisation", "Stain", "Fermentation", "Blazing Fist", "Explosive Flask", "Pandjiu", "Eviction", "Pandatak", "Debauchery"]
+  - ["Schnaps", "Numbness", "Nausea", "Karcham", "Boozer", "Pandiniuras", "Fermentation", "Bamboo", "Stabilisation", "Propulsion"]
+  - ["Inebriation", "Explosive Flask", "Weapon Skill", "Debauchery", "Stain", "Prohibition", "Pandjiu", "Terror", "Tipple", "Waterfall"]
 -
-  - ["Summons Skill", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Cawwot"]
+  - ["Summons Skill", "Summoning of Chaferfu", "Summoning of Arachnee", "Release", "Cawwot", "Leek Pie"]
   - ["Soul Capture"]
