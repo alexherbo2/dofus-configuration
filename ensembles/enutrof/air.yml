@@ -1,0 +1,32 @@
+Characteristics:
+  Vitality: 175
+  Strength: 160
+  Agility: 300
+Equipment:
+  Hat: Nomarow’s Helmet
+  Cloak: Turtelonia Carapace
+  Amulet: Treadfast Amulet
+  Rings:
+  - Nomarow’s Ring
+  - Allister’s Ring
+  Belt: Treadfast Belt
+  Boots: Nomarow’s Getas
+  Weapon: Turtelonia Wand
+  Shield: Four-Leaf
+  Pet: Skrot
+  Dofus:
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Turquoise Dofus
+  - Cloudy Dofus
+  - Crimson Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Shovelbrained", "Ghostly Spade", "Opportuneness", "Acceleration", "Ignigaga", "Spade of Judgement", "Living Shovel", "Living Chest", "Living Bag", "Coin Throwing"]
+  - ["Decadence", "Shovel Throwing", "Mound", "Greed", "Vivacity", "Prime of Life", "Shovel Kiss", "Pandora’s Box", "Reducing Key", "Pull Out"]
+-
+  - ["Summons Skill", "Decadence", "Opportuneness", "Shovelbrained", "Living Chest", "Cawwot"]
+  - ["Weapon Skill", "Summoning of Chaferfu", "Summoning of Arachnee"]
+-
+  - ["Soul Capture"]
