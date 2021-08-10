@@ -1,0 +1,61 @@
+General:
+  ToggleSound: F5
+Menus:
+  OpenInventory: F1
+  OpenWorldMap: F2
+  OpenFriendList: Control + F
+  OpenGuild: Control + G
+  OpenAlliance: Control + A
+  OpenSpouse: Control + Q
+  OpenKolossium: K
+  OpenShop: F7
+  OpenProfession: J
+  Mount: Control + D
+  OpenHavenBag: H
+Discussion:
+  Focus: Space
+  PreviousCorrespondent: PageUp
+  NextCorrespondent: PageDown
+  GuildChannel: Alt + Enter
+  GroupChannel: Shift + Enter
+  TeamChannel: Control + Enter
+  CompletePlayerName: Control + Tab
+  ToggleFight: B
+Options:
+  Transparency: Control + T
+  ShowPlayerNames: X
+  DisplayMonsterTooltips: Z
+  HighlightInteractiveItems: V
+  DisplayCombatPlacementPositions: C
+Fight:
+  Melee: Tab
+  EndTurn: Grave
+  ShowCell: Control + S
+Bar:
+  Slot:
+    01: Q
+    02: W
+    03: E
+    04: R
+    05: T
+    06: A
+    07: S
+    08: D
+    09: F
+    10: G
+    11: Shift + Q
+    12: Shift + W
+    13: Shift + E
+    14: Shift + R
+    15: Shift + T
+    16: Shift + A
+    17: Shift + S
+    18: Shift + D
+    19: Shift + F
+    20: Shift + G
+  Tab:
+    01: 1
+    02: 2
+    03: 3
+    04: 4
+    05: 5
