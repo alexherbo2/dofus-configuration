@@ -1,0 +1,30 @@
+Characteristics:
+  Vitality: 15
+  Strength: 380
+  Agility: 60
+Equipment:
+  Hat: Solomonk
+  Cloak: Jahash Jurgen’s Cloak
+  Amulet: Crabtun Necklace
+  Rings:
+  - Broucey Ring
+  - Hairsh Bracelet
+  Belt: Broucey Belt
+  Boots: Broucey Boots
+  Weapon: Ice Daggers
+  Shield: Stalak Shield
+  Pet: Skrot
+  Dofus:
+  - Disaprys
+  - Vulbis Dofus
+  - Ochre Dofus
+  - Abyssal Dofus
+  - Cloudy Dofus
+  - Ice Dofus
+Bar:
+-
+  - ["Lethal Attack", "Shakedown", "Pitfall", "Tricky Blow", "Weapon Skill", "Mortuary Mark", "Chakra Concentration", "Misconstrual", "Waylaying", "Invisibility"]
+  - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", ~, "Mistake", "Tricky Blow", "Plotter"]
+-
+  - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", "Chakra Concentration", "Misconstrual", "Waylaying", "Invisibility"]
+  - ["Summons Skill", "Summoning of Arachnee", "Summoning of Chaferfu", ~, "Cawwot", "Release", ~, "Mistake", "Tricky Blow", "Plotter"]
