@@ -23,10 +23,11 @@ Equipment:
   - Ice Dofus
 Bar:
 -
-  - ["Repelling Trap", "Tricky Trap", "Drift Trap", "Lethal Trap", "Malevolent Trap", "Waylaying", "Sickrat Trap", "Miry Trap", "Mass Grave", "Cawwot"]
-  - ["Invisibility", "Fear", "Chakra Concentration", "Plotter", "Shakedown", "Lethal Attack", "Pitfall", "Evasion", "Furrow", "Mistake"]
+  - ["Lethal Attack", "Shakedown", "Pitfall", "Plotter", "Evasion", "Leek Pie", "Waylaying", "Misconstrual", "Chakra Concentration", "Invisibility"]
+  - ["Repelling Trap", "Tricky Trap", "Drift Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Cawwot", "Release", "Mistake", "Mass Grave"]
 -
-  - ["Summons Skill", "Release", "Cawwot", "Leek Pie"]
+  - ["Repelling Trap", "Tricky Trap", "Drift Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Waylaying", "Misconstrual", "Chakra Concentration", "Invisibility"]
+  - ["Lethal Attack", "Shakedown", "Pitfall", "Plotter", "Evasion", "Leek Pie", "Cawwot", "Release", "Mistake", "Mass Grave"]
+-
+  - ["Summons Skill", "Release", "Cawwot", "Leek Pie", ~, ~, ~, ~, ~, "Soul Capture"]
   - ["Weapon Skill", "Summoning of Chaferfu", "Summoning of Arachnee"]
--
-  - ["Soul Capture"]
