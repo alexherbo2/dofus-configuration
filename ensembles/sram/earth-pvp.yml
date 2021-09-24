@@ -22,8 +22,11 @@ Equipment:
   - Ice Dofus
 Bar:
 -
-  - ["Lethal Attack", "Shakedown", "Pitfall", "Tricky Blow", "Weapon Skill", "Mortuary Mark", "Chakra Concentration", "Misconstrual", "Waylaying", "Invisibility"]
-  - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", ~, "Mistake", "Tricky Blow", "Plotter"]
+  - ["Lethal Attack", "Shakedown", "Pitfall", "Plotter", "Evasion", "Leek Pie", "Waylaying", "Misconstrual", "Chakra Concentration", "Invisibility"]
+  - ["Repelling Trap", "Tricky Trap", "Drift Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Cawwot", "Release", "Mistake", "Mass Grave"]
 -
-  - ["Repelling Trap", "Tricky Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Mass Grave", "Chakra Concentration", "Misconstrual", "Waylaying", "Invisibility"]
-  - ["Summons Skill", "Summoning of Arachnee", "Summoning of Chaferfu", ~, "Cawwot", "Release", ~, "Mistake", "Tricky Blow", "Plotter"]
+  - ["Repelling Trap", "Tricky Trap", "Drift Trap", "Lethal Trap", "Malevolent Trap", "Sickrat Trap", "Waylaying", "Misconstrual", "Chakra Concentration", "Invisibility"]
+  - ["Lethal Attack", "Shakedown", "Pitfall", "Plotter", "Evasion", "Leek Pie", "Cawwot", "Release", "Mistake", "Mass Grave"]
+-
+  - ["Summons Skill", "Release", "Cawwot", "Leek Pie", ~, ~, ~, ~, ~, "Soul Capture"]
+  - ["Weapon Skill", "Summoning of Chaferfu", "Summoning of Arachnee"]
